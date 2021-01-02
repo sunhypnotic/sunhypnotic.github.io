@@ -1,0 +1,15 @@
+#+TITLE: SH010 - ZAIZHONGGUO - Idol Eyes
+#+DATE_CREATED: <2014-02-07 Fri>
+#+FIRN_UNDER: Releases
+#+FIRN_ORDER: 23
+
+<img src="https://f1.bcbits.com/img/a4176479012_2.jpg"/>
+* Release Notes
+ First new Idol Eyes album since 2008. Spawned by improptu field recording sessions during a trip to China in 2010\.  These songs are a byproduct of intense examination of syntax, proxemics and recursion.... more importantly feedback loops in various physical forms.
+
+"The mixing was an experiment in itself based on ideas from 'The Hidden Dimension' by Edward T. Hall, specifically in the dynamic use of space to affect emotion. The overall sound was an attempt to relate the claustrophobic space-bubbles one exists in while traveling through an Asian megalopolis." - Idol Eyes
+
+* Stream
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1051577989/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://idoleyessound.com/album/zaizhongguo">ZAIZHONGGUO by Idol Eyes</a></iframe>
+* Links
+https://idoleyes.bandcamp.com/album/zaizhongguo

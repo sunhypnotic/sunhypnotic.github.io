@@ -1,0 +1,10 @@
+#+TITLE: SH002 - Session 1 EP - Arbeiten
+#+DATE_CREATED: <2008-04-01 Tues>
+#+FIRN_UNDER: Releases
+#+FIRN_ORDER: 29
+
+<img src="https://f4.bcbits.com/img/a1452789192_10.jpg" width="500px">
+* Release Notes
+Recorded in Mesa, AZ at the Sycamore Red Room Studio during the spring of 2008.
+* Stream
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4187653628/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sunhypnotic.bandcamp.com/album/session-1-ep">Session 1 EP by Arbeiten</a></iframe>

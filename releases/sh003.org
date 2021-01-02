@@ -1,0 +1,11 @@
+#+TITLE: SH003 - EP - Caviar & Cigarettes
+#+DATE_CREATED: <2010-03-23 Tues>
+#+FIRN_UNDER: Releases
+#+FIRN_ORDER: 28
+
+<img src="https://f4.bcbits.com/img/a1232079701_10.jpg" width="500px">
+* Release Notes
+Recorded using two microphones in the winter of 2009 - Phoenix, AZ.
+Released as CD-R and digital, with handmade packaging by the band.
+* Stream
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4019058622/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sunhypnotic.bandcamp.com/album/ep">EP by Caviar &amp; Cigarettes</a></iframe>

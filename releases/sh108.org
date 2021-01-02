@@ -1,0 +1,10 @@
+#+TITLE: SH108 - Xmas Smeeches II - Various Artists
+#+DATE_CREATED: <2011-12-25 Fri>
+#+FIRN_UNDER: Releases
+#+FIRN_ORDER: 32
+
+<img src="https://f4.bcbits.com/img/a2604709699_10.jpg" width="500px">
+* Release Notes
+Holiday comp from a bunch of bands from TEMPE, AZ. sounds range from krautrock, ambient, punk, noise, psychedelic, folk, electronic, industrial, and free rock.
+* Stream
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2759848936/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sunhypnotic.bandcamp.com/album/xmas-smeeches-ii">Xmas Smeeches II by VA</a></iframe>

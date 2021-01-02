@@ -1,0 +1,9 @@
+#+TITLE: SH007 - Summer Mixtape - Caviar & Cigarettes
+#+DATE_CREATED: <2010-07-16 Fri>
+#+FIRN_UNDER: Releases
+#+FIRN_ORDER: 25
+<img src="https://f4.bcbits.com/img/a0546130483_10.jpg" Width="500px"/>
+* Release Notes
+Recorded in Arizona, Mixed in Zhengzhou and Beijing China. C&C tackles dance music, hall & oates, Axelrodian guitar mishaps and more! Conceived as a remix of their first EP, this mixtapes blossoms into it's own work, evolving from the group's patented "cookie-monster afropop" to a more cosmopolitan sound.
+* Stream
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3658883437/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sunhypnotic.bandcamp.com/album/summer-mixtape">Summer Mixtape by Caviar &amp; Cigarettes</a></iframe>

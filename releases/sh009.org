@@ -1,0 +1,10 @@
+#+TITLE: SH009 - New Fast IV - New Fast
+#+DATE_CREATED: <2012-05-19 Sat>
+#+FIRN_UNDER: Releases
+#+FIRN_ORDER: 24
+
+<img src="https://f4.bcbits.com/img/a0759577061_10.jpg" width="500px"/>
+* Release Notes
+Two sides of lofi ambient punk from the valley of the sun.
+* Stream
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2109794039/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sunhypnotic.bandcamp.com/album/new-fast-iv">New Fast IV by New Fast</a></iframe>
