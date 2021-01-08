@@ -14,7 +14,7 @@
      [:div.nav-container
       [:div.nav-left
        (mobile-btn)
-       [:img.nav-logo {:width 32 :src (build-url "/static/img/ico-light.png")}]]
+       [:img.nav-logo {:width 75 :src (build-url "/static/img/ico-light.png")}]]
       [:div.nav-links
        (for [l links]
          [:a.nav-links-item {:href (first l)}
