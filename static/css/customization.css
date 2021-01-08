@@ -314,6 +314,10 @@ pre code {
   }
 }
 
+.nav-logo {
+  margin-top: 9px;
+}
+
 .backlinks {
   border: 1px solid var(--border-col);
   background-color: var(--nav-bg);
