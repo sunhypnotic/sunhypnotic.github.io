@@ -176,6 +176,11 @@ pre code {
   color: var(--color-text);
 }
 
+.nav-logo {
+  margin-top: 9px;
+  opacity: 0.4;
+}
+
 /* Mobile styles */
 
 @media(max-width: 768px) {
@@ -312,10 +317,6 @@ pre code {
     align-items: center;
     margin-left: -18px;
   }
-}
-
-.nav-logo {
-  margin-top: 9px;
 }
 
 .backlinks {
