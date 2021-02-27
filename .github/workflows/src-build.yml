@@ -17,13 +17,6 @@ jobs:
       - name: Install firn
         run: chmod +x install-firn && sudo ./install-firn
       - run: firn build -d /home/runner/work/sunhypnotic.github.io/sunhypnotic.github.io/src
-      - name: Prepare tag
-        id: prepare_tag
-        if: startsWith(github.ref, 'refs/tags/')
-        run: |
-          TAG_NAME="${GITHUB_REF##refs/tags/}"
-          echo "::set-output name=tag_name::${TAG_NAME}"
-          echo "::set-output name=deploy_tag_name::deploy-${TAG_NAME}"
       - name: Upload build artifacts
         uses: actions/upload-artifact@v1
         with:
@@ -39,6 +32,13 @@ jobs:
         uses: actions/download-artifact@v1
         with:
           name: public
+      - name: Prepare tag
+        id: prepare_tag
+        if: startsWith(github.ref, 'refs/tags/')
+        run: |
+          TAG_NAME="${GITHUB_REF##refs/tags/}"
+          echo "::set-output name=tag_name::${TAG_NAME}"
+          echo "::set-output name=deploy_tag_name::deploy-${TAG_NAME}"
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
